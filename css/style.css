@@ -1,0 +1,23 @@
+html {
+    box-sizing: border-box;
+} 
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: block;
+    height: 50px;
+    width: 1280px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgb(163, 163, 2);
+    box-shadow: 0px 5px 15px rgb(84, 82, 0);
+
+}
