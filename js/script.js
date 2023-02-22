@@ -11,4 +11,4 @@ const hideMenu = () => { //zdarzenie "onmouseleave" też nie działało
     menuNavigationElement.style.display = "none";
 };
 
-menuElement.onmouseout = hideMenu;
+menuElement.onmouseleave = hideMenu;
