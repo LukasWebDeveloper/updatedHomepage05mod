@@ -9,6 +9,6 @@ showMenu.addEventListener("click", () => {
 
 const hideMenu = document.querySelector(".header__menu");
 
-hideMenu.addEventListener("onmouseout", () => { //zdarzenie onmouseleave też nie działa
+hideMenu.addEventListener("onmouseout", () => { //zdarzenie "onmouseleave" też nie działało
     menuNavigationElement.style.display = "none";
 });
