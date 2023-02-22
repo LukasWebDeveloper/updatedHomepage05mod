@@ -13,18 +13,27 @@
 
 .header__menu {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     position: relative;
-    align-items: center;
+    align-items: flex-start;
     width: 130px;
-    height: 40px;
-    padding: 2px;
+    height: 35px;
+    padding: 0px;
     background-color: rgb(209, 220, 84);
     box-shadow: 0px 3px  10px;
     /* flex-grow:1; */
 }
 
+.menu__container--toggle {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 35px;
+    
+}
+
 .header__img--imgMenu {
+    padding-left: 5px;
     border-radius: 25px;
 }
 
@@ -38,7 +47,8 @@
     padding: 0px;
     width: 130px;
     height: 90px;
-    top: -10px;
+    top: 3px;
+    /* top: 0px; */
     background-color: rgb(209, 220, 84);
     box-shadow: 0px 5px 10px;
 }
