@@ -21,3 +21,17 @@ html {
     box-shadow: 0px 5px 15px rgb(84, 82, 0);
 
 }
+
+.section__header {
+    margin: 0 auto;
+}
+
+.section__aboutMe{
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.section__hobby{
+    width: 1280px;
+    margin: 0 auto;
+}

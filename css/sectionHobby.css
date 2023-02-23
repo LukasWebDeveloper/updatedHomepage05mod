@@ -1,0 +1,47 @@
+.section__hobby {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(253, 253, 160);
+}
+
+.header--bonsai {
+    margin: auto;
+}
+
+.header--guitar {
+    margin: auto;
+}
+
+.img--valentineHeart {
+    display: none;
+    position: absolute;
+    margin: 10px;
+    right: 0;
+
+}
+
+.tableBonsai {
+    width: 100px;
+    margin: 15px;
+    margin-bottom: 50px;
+    border: 2px solid green;
+}
+
+.tableBonsai__caption {
+    margin: 2px 0;
+    padding: 4px;
+    background-color: rgb(171, 194, 43);
+}
+
+.tableBonsai__cell {
+    padding: 4px;
+    text-align: center;
+    background-color: rgb(186, 224, 79);
+}
+
+.tableBonsai__cell--header {
+    background-color: rgb(156, 179, 95);
+}
+

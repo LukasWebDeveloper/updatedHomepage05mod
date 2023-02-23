@@ -1,0 +1,7 @@
+.section__aboutMe {
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+    padding: 10px;
+    background-color: rgb(253, 253, 160);
+}
