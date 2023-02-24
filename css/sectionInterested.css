@@ -1,0 +1,11 @@
+.section__interested {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(253, 253, 160);
+}
+
+.header--interested {
+    margin: auto;
+}
