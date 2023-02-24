@@ -13,3 +13,5 @@ https://lukaswebdeveloper.github.io/updatedHomepage05mod/
 21:00, date 23.02.2023  -   updated tag section__aboutMe and section__hobby
 
 16:55, date 24.02.2023  -   updated function hideMenu in script.js
+
+17:55, date 24.02.2023  -   added and styled  section interested and footer
