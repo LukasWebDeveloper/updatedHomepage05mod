@@ -26,23 +26,22 @@
     width: 100px;
     margin: 15px;
     margin-bottom: 50px;
-    border: 2px solid green;
 }
 
 .tableBonsai__caption {
     margin: 2px 0;
-    padding: 4px;
-    background-color: rgb(171, 194, 43);
+    padding: 8px;
+    background-color: rgb(229, 246, 129);
 }
 
 .tableBonsai__cell {
-    padding: 4px;
+    padding: 8px;
     text-align: center;
-    background-color: rgb(186, 224, 79);
+    background-color: rgb(194, 228, 99);
 }
 
 .tableBonsai__cell--header {
-    background-color: rgb(156, 179, 95);
+    background-color: rgb(163, 196, 81);
 }
 
 .header--hobby {
